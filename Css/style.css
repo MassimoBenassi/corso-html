@@ -1,0 +1,9 @@
+* {
+    font-family: 'Kavivanar', Georgia, 'Times New Roman', Times, serif
+}
+
+img {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+}

@@ -1,0 +1,45 @@
+* {
+    font-family: 'Kavivanar', Arial, Helvetica, sans-serifs;
+}
+
+img {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+}
+
+header,
+footer {
+    border: 1px black solid;
+    text-align: center;
+    height: 100px;
+    color: aquamarine;
+    font-size: 2cm;
+    width: 20%;
+}
+
+#content {
+    border: 2px;
+    display: inline;
+}
+
+#sideMenu {
+    width: 30%;
+    /*display: inline;*/
+}
+
+#Main {
+    width: 70%;
+}
+
+.withBorder {
+    border: 1px solid rebeccapurple;
+}
+
+.Titolo {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Kavivanar', cursive;
+}
